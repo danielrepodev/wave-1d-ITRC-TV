@@ -1,0 +1,14 @@
+name: wave
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter_client=8.6.2
+  - jupyter_core=5.5.0
+  - matplotlib=3.8.4
+  - matplotlib-base=3.8.4
+  - matplotlib-inline=0.1.7
+  - numpy=1.26.4
+  - pandas=2.2.2
+  - python=3.12.2
+  - scipy=1.11.4
